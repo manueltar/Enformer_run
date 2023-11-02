@@ -1,0 +1,6 @@
+#### path: /group/soranzo/manuel.tardaguila/Enformer/Table_S6_variants/
+
+
+
+$ bash ~/Scripts/Wraper_scripts/9_Enformer_run.sh Table_S6_variants  /group/soranzo/manuel.tardaguila/Enformer/
+
