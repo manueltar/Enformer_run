@@ -466,7 +466,7 @@ main = function() {
                         option_list = option_list)
   opt <<- parse_args(parser)
   
-  # interpret_enformer(opt)
+  interpret_enformer(opt)
   TF_motif_annotation(opt)
   
   
